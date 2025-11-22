@@ -1,0 +1,7 @@
+*.arrow filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+vietnamese_summarization_split/* filter=lfs diff=lfs merge=lfs -text
+vietnamese_summarization_split/*.arrow filter=lfs diff=lfs merge=lfs -text
+vietnamese_summarization_split/*.json filter=lfs diff=lfs merge=lfs -text
+vietnamese_summarization_split/*.parquet filter=lfs diff=lfs merge=lfs -text
